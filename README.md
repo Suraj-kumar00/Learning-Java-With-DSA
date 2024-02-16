@@ -1,1 +1,1 @@
-# Learning Java
+![Java Poster](./Assets/Java-poster.png)
