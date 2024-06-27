@@ -48,7 +48,7 @@
 - [ ]  Representation
 - [ ]  Traversals (DFS, BFS)
 
-# **7. Advanced Data Structures:**
+# **7. Advanced-Data Structures:**
 
 - [ ]  Heaps
 - [ ]  Hash Tables
@@ -96,28 +96,28 @@
 - [ ]  Longest Palindromic Substring
 - [ ]  Longest Increasing Subsequence
 
-1. **Advanced Topics:**
+# **Advanced Topics:**
 
-•  NP-Hard and 
-•  NP-Complete Problems.
-•  Approximation Algorithms.
-•  Probabilistic Data Structures (Bloom Filters).
+-  NP-Hard and 
+-  NP-Complete Problems.
+-  Approximation Algorithms.
+-  Probabilistic Data Structures (Bloom Filters).
 
-**13. Online Algorithms:**
+## **13. Online Algorithms:**
 
-•  Competitive Programming Strategies
-•  Online Problems and Solutions
-•  Interactive and Offline Queries
+-  Competitive Programming Strategies
+-  Online Problems and Solutions
+-  Interactive and Offline Queries
 
-1. **Additional Concepts:**
+## **14. Additional Concepts:**
 
-•  Bit Manipulation
-•  Amortized Analysis
-•  Game Theory Algorithms
-•  Quantum Algorithms
+-  Bit Manipulation
+-  Amortized Analysis
+-  Game Theory Algorithms
+-  Quantum Algorithms
 
-1. **Algorithmic Problem Solving:**
+## **15. Algorithmic Problem Solving:**
 
-•  Practice on coding platforms 
-•  Participate in Coding Competitions
-•  Read and analyze others' code
+- Practice on coding platforms 
+-  Participate in Coding Competitions
+-  Read and analyze others' code
