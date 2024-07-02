@@ -1,4 +1,4 @@
-![Java Poster](./Assets/Java-poster.png)
+![Java Poster](https://github.com/Suraj-kumar00/Learning-Java-With-DSA/blob/main/Assets/DSA_Java_Poster.png)
 
 ## Programming Fundamentals
 
